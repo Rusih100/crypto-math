@@ -1,6 +1,7 @@
 # crypto-math
 Library of mathematical algorithms used in сryptography. Supports big numbers
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/Rusih100/crypto-math.svg)](https://pkg.go.dev/github.com/Rusih100/crypto-math)
 
 ## Install
 ```
