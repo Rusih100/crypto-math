@@ -24,7 +24,7 @@ The library supports the following functions:
 * Solution of the comparison system
 * Discrete logarithm
 * Ro-Pollard's method of factorization
-* (Po - 1) Pollard factorization method
+* (Ro - 1) Pollard factorization method
 * Factorization of a number
 * Factorization of a number by brute force
 * Generating a random k bit number
